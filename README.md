@@ -1,8 +1,8 @@
-## Sine Curve Fitting Neural Network
+# Sine Curve Fitting Neural Network
 This repository contains implementations of a Neural Network for fitting a sine curve using various approaches. The models are developed using both raw NumPy and popular deep learning libraries like Keras.
 
 ## Approaches Implemented
-# Numpy-Based Neural Network
+### Numpy-Based Neural Network
 
 A basic neural network implemented from scratch using NumPy. Two cases are covered: one where one input corresponds to one output and another with multiple inputs and one output.
 Numpy-Based Neural Network with Activation Functions
